@@ -6,5 +6,5 @@ def Print_Even_Odd(arr):
             even_list.append(i)
         else:
             odd_list.append(i)
-    return even_list,odd_list
+    return f"Even Number is: {even_list}\n Odd Number is :{odd_list}"
 print(Print_Even_Odd([i for i in range(1,51)]))
