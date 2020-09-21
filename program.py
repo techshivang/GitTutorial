@@ -1,3 +1,4 @@
+# <----This function return an Even and Odd Number on a Given array---->
 def Print_Even_Odd(arr):
     even_list=[]
     odd_list=[]
